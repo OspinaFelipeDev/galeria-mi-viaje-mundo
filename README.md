@@ -7,7 +7,11 @@ Descubre el mundo a través de mis ojos: una galería visual de mi increíble vi
 
 ## Capturas de Pantalla 📷📷
 
+- Página principal.
+
 ![Inicio](img/captura.png)
+
+- Galeria
 
 ![Galeria](img/captura-1.png)
 
